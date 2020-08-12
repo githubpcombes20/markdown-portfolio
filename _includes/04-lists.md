@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# New list
+- Reading
+- Linux
+- Databases
+- Learn Git and Github
